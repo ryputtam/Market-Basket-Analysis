@@ -8,7 +8,7 @@ Each user's purchase items list is taken as input in the form of a tab-delimited
 
 **Method**
 
-Aprior Algorithm is implemented to get the association rules. The main property of this algorithm says 'All subsets of a frequent itemset are perfect, but the converse may not be true. With the available data, frequent item sets of n-size(1,2,3,4) are identified with predefined support. Later, association rules are generated with predefined confidence set to 90%.
+Aprior Algorithm is implemented to get the association rules. The main property of this algorithm says 'All subsets of a frequent itemset are frequent, but the converse may not be true. With the available data, frequent item sets of n-size(1,2,3,4) are identified with predefined support. Later, association rules are generated with predefined confidence set to 90%.
 
 **Ouput**
 
